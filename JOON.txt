@@ -1,5 +1,8 @@
 JOON
 JOONfeature1
+<<<<<<< HEAD
 Edit file Joon feature2
 test reabase master
+=======
+>>>>>>> Feature1
 Test rebase
